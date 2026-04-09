@@ -48,4 +48,7 @@ Execute o projeto:
 - Refinar estilizações com Material UI
 - Ajustar responsividade para diferentes tamanhos de tela
 - Pequenos ajustes visuais para melhor usabilidade
+
+   Deploy  
+
 https://69d7284ff7fd9c000844d955--desafio-frontend1.netlify.app/
