@@ -1,16 +1,57 @@
-# React + Vite
+  🚀 Sistema de Gestão de Estoque e Faturamento
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Sobre o projeto
+Este projeto foi desenvolvido como parte de um desafio técnico front-end, com o objetivo de criar uma aplicação para gerenciamento de produtos e visualização de faturamento.
 
-Currently, two official plugins are available:
+A aplicação permite:
+- Listar produtos cadastrados
+- Cadastrar e editar produtos
+- Excluir produtos
+- Visualizar faturamento (vendas)
+- Filtrar, ordenar e paginar dados
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+ 🛠 Tecnologias utilizadas
+- React
+- JavaScript
+- Vite
+- Material UI (MUI)
+- CSS
+- React Toastify
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+🌐 API utilizada
+https://my-json-server.typicode.com/Sifat-devs/db-desafio-frontend
+
+---
+
+▶️ Como rodar o projeto
+
+Clone o repositório:
+git clone COLE_AQUI_SEU_LINK
+
+Acesse a pasta:
+cd NOME_DO_PROJETO
+
+Instale as dependências:
+npm install
+
+Execute o projeto:
+npm run dev
+
+
+
+ 🔧 Melhorias futuras
+- Melhorar o layout e a experiência do usuário (UI/UX)
+- Refinar estilizações com Material UI
+- Ajustar responsividade para diferentes tamanhos de tela
+- Pequenos ajustes visuais para melhor usabilidade
+
+
+
+
+Deploy
+
+https://69d7284ff7fd9c000844d955--desafio-frontend1.netlify.app/
