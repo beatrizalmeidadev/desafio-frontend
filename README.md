@@ -1,4 +1,4 @@
-  🚀 Sistema de Gestão de Estoque e Faturamento
+  ##🚀 Sistema de Gestão de Estoque e Faturamento
 
 # Sobre o projeto
 Este projeto foi desenvolvido como parte de um desafio técnico front-end, com o objetivo de criar uma aplicação para gerenciamento de produtos e visualização de faturamento.
@@ -12,7 +12,7 @@ A aplicação permite:
 
 
 
- 🛠 Tecnologias utilizadas
+# 🛠 Tecnologias utilizadas
 - React
 - JavaScript
 - Vite
@@ -22,28 +22,28 @@ A aplicação permite:
 
 
 
-🌐 API utilizada
+# 🌐 API utilizada
 https://my-json-server.typicode.com/Sifat-devs/db-desafio-frontend
 
 ---
 
-▶️ Como rodar o projeto
+# ▶️ Como rodar o projeto
 
 Clone o repositório:
-git clone COLE_AQUI_SEU_LINK
+git clone https://github.com/beatrizalmeidadev/desafio-frontend.git
 
 Acesse a pasta:
-cd NOME_DO_PROJETO
+```cd desafio-frontend```
 
 Instale as dependências:
-npm install
+```npm install```
 
 Execute o projeto:
-npm run dev
+```npm run dev```
 
 
 
- 🔧 Melhorias futuras
+# 🔧 Melhorias futuras
 - Melhorar o layout e a experiência do usuário (UI/UX)
 - Refinar estilizações com Material UI
 - Ajustar responsividade para diferentes tamanhos de tela
